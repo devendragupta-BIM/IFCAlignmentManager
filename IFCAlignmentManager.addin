@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>IFC Alignment Manager</Name>
+    <Assembly>IFCAlignmentManager.dll</Assembly>
+    <FullClassName>IFCAlignmentManager.App</FullClassName>
+    <ClientId>3F1E7C4A-9A2D-4C55-8B23-C2A1E4567890</ClientId>
+    <VendorId>IFCALIGN</VendorId>
+    <VendorDescription>IFC Alignment Manager v2.0 — Revit 2026 Coordinate Alignment Tool</VendorDescription>
+  </AddIn>
+</RevitAddIns>
