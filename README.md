@@ -26,11 +26,7 @@ IFC Alignment Manager eliminates this loop.
 
 ---
 
-## Screenshots
 
-> _Add screenshots here after first run: Ribbon tab, Step 3 transform preview, HTML report_
-
----
 
 ## Requirements
 
